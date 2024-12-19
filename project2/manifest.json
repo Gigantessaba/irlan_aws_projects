@@ -2,7 +2,7 @@
    "fileLocations": [
        {
            "URIs": [
-               "s3://nextwork-quicksight-project-irlan/netflix_titles.csv"
+               "s3://yourBucketURL/netflix_titles.csv"
            ]
        }
    ],
